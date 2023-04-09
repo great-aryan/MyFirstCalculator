@@ -1,6 +1,6 @@
 # MyFirstCalculator
 - I made this calculator when I was in 6th standard : 2015 using C# and VisualBasic
-- That time i was used C# for programming the calculator
+- That time I used C# for programming the calculator
 - I made this standalone windows executable calculator in VisualStudio Community 2010
 
 - Here's how it look like: 
